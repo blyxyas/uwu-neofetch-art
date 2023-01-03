@@ -1,6 +1,6 @@
 # uwu-neofetch-art
 
-<img src="https://github.com/blyxyas/uwu-neofetch-art/blob/master/screenshot-term.png?raw=true" alt="terminal preview" align="right" height="240">
+<img src="https://github.com/blyxyas/uwu-neofetch-art/blob/main/screenshot-term.png?raw=true" alt="terminal preview" align="right" height="240">
 
 I colorized this uwu animu girl
 if you want you can use it. 
