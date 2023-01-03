@@ -50,7 +50,7 @@ EOF
 
 This produces the logo, the first line is about recognizing your OS, the `set_colors` function chooses your color palette.
 
-## Actually making the change
+**2. Actually making the change**
 
 *(In your OS's logo section)*
 
