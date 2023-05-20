@@ -2,8 +2,8 @@
 
 <img src="https://github.com/blyxyas/uwu-neofetch-art/blob/main/screenshot-term.png?raw=true" alt="terminal preview" align="right" height="240">
 
-I colorized this uwu animu girl
-if you want you can use it. 
+This repo contains some uwu cute anime ASCII art for neofetch.
+Use it if you want!
 
 ---
 
@@ -50,30 +50,19 @@ EOF
 
 This produces the logo, the first line is about recognizing your OS, the `set_colors` function chooses your color palette.
 
-**2. Actually making the change**
+**2. Choosing a cute ASCII art**
+
+If you want one with color, go to the `colored` directory, the same thing goes for `black-white`.
+
+Explore the different ASCII arts that are available, and choose the one you like the most. Note that all colored also have a black and white counterpart, so you can "preview" it (color information distorts images)
+
+**3. Actually making the change**
 
 *(In your OS's logo section)*
 
-* Change the `set_colors` function to `set_colors 3 5 1`
-* Change the logo of your OS to the following character-art:
+* Change the `set_colors` function to the one specified in the file you choose (first line)
+* Change the logo of your OS to the character art that follows it.
 
-```
-${c2}⡆⣐⢕⢕⢕⢕⢕⢕⢕⢕⠅⢗⢕⢕⢕⢕⢕⢕⢕⠕⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕
-⢐⢕⢕⢕⢕⢕⣕⢕⢕⠕⠁⢕⢕⢕⢕⢕⢕⢕⢕⠅${c1}⡄${c2}⢕⢕⢕⢕⢕⢕⢕⢕⢕
-⢕⢕⢕⢕⢕⠅⢗⢕⠕${c1}⣠⠄${c2}⣗⢕⢕⠕⢕⢕⢕⠕${c1}⢠⣿${c2}⠐⢕⢕⢕⠑⢕⢕⠵⢕
-⢕⢕⢕⢕⠁⢜⠕${c1}⢁⣴⣿⡇${c2}⢓⢕⢵⢐⢕⢕⠕${c1}⢁⣾⢿⣧${c2}⠑⢕⢕⠄⢑⢕⠅⢕
-⢕⢕⠵⢁⠔${c1}⢁⣤⣤⣶⣶⣶${c2}⡐⣕⢽⠐⢕⠕${c1}⣡⣾⣶⣶⣶⣤${c2}⡁⢓⢕⠄⢑⢅⢑
-⠍⣧⠄${c1}⣶⣾⣿⣿⣿⣿⣿⣿⣷${c2}⣔⢕⢄${c1}⢡⣾⣿⣿⣿⣿⣿⣿⣿⣦${c2}⡑⢕⢤⠱⢐
-⢠⢕⠅${c1}⣾⣿⠋⢿⣿⣿⣿⠉⣿⣿⣷⣦⣶⣽⣿⣿⠈⣿⣿⣿⣿⠏⢹⣷⣷⡅${c2}⢐
-⣔⢕⢥${c1}⢻⣿⡀⠈⠛⠛⠁⢠⣿⣿⣿⣿⣿⣿⣿⣿⡀⠈⠛⠛⠁⠄⣼⣿⣿⡇${c2}⢔
-⢕⢕⢽⢸${c1}⢟${c3}⢟⢖⢖⢤${c1}⣶⡟⢻⣿⡿⠻⣿⣿⡟⢀⣿${c3}⣦⢤⢤⢔⢞⢿${c1}⢿⣿⠁${c2}⢕
-⢕⢕⠅${c3}⣐⢕⢕⢕⢕⢕${c1}⣿⣿⡄⠛⢀⣦⠈⠛⢁⣼⣿${c3}⢗⢕⢕⢕⢕⢕⢕${c2}⡏⣘⢕
-⢕⢕⠅${c3}⢓⣕⣕⣕⣕${c1}⣵⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣷${c3}⣕⢕⢕⢕⢕⡵${c2}⢀⢕⢕
-⢑⢕⠃⡈${c1}⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿${c2}⢃⢕⢕⢕
-⣆⢕⠄⢱⣄${c1}⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿${c2}⢁⢕⢕⠕⢁
-⣿⣦⡀⣿⣿⣷⣶⣬⣍${c1}⣛⣛⣛⡛⠿⠿⠿⠛⠛⢛⣛${c2}⣉⣭⣤⣂⢜⠕⢑⣡⣴⣿
-```
-
-Now, everytime you run `neofetch`, your terminal will be very uwu animu, just like God intended. (Screenshot above)
+Now, every time you run `neofetch`, your terminal will be very uwu animu, just like God intended. (Screenshot above)
 
 Made under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
